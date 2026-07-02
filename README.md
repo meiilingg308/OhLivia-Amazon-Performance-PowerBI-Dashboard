@@ -1,5 +1,5 @@
 # Amazon-Performance-PowerBI-Dashboard
-This is a self-built Power BI project with brand name Oh'Livia developed from Amazon Australia maketplace raw data to analyze sales performance, advertising efficiency, customer shopping behavior, and LTV trends. The report covers executive KPIs, promotion performance, product conversion, customer purchase patterns, and cohort analysis to generate actionable e-commerce business insights.
+This is a self-built Power BI project with brand name Oh'Livia developed from Amazon Australia marketplace raw data to analyze sales performance, advertising efficiency, customer shopping behavior, and LTV trends. The report covers executive KPIs, promotion performance, product conversion, customer purchase patterns, and cohort analysis to generate actionable e-commerce business insights.
 # Dashboard Outline
 The report is structured into several key sections:
 
